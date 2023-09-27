@@ -1,0 +1,22 @@
+a {
+    color: white;
+    
+}
+
+li {
+    margin-bottom: 20px;
+    background-color: black;
+    height: 25px;
+}
+
+.one {
+    width: 19%;
+}
+
+.two {
+    width: 13%;
+}
+
+.three {
+    width: 12%;
+}
