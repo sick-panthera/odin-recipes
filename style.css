@@ -1,22 +1,39 @@
+#circle-content {
+    text-align: center;
+    margin-top: 630px;
+}
+
+#circle {
+    background-color: rgb(165, 42, 42);
+    width: 1000px;
+    height: 800px;
+    overflow: hidden;
+    border-radius: 0 0 70% 70%;
+    margin: -600px auto 0;
+   
+}
+
 a {
-    color: white;
+    color: black;
     
 }
 
 li {
     margin-bottom: 20px;
-    background-color: black;
-    height: 25px;
+    background-color: rgb(175, 64, 64);
+    border-radius: 25px;
+    height: 20px;
+    text-align: center;
 }
 
 .one {
-    width: 19%;
+    width: 24%;
 }
 
 .two {
-    width: 13%;
+    width: 18%;
 }
 
 .three {
-    width: 12%;
+    width: 17%;
 }
