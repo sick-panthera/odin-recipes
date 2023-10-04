@@ -1,0 +1,12 @@
+h1,
+h3,
+h4 {
+    background-color: rgb(175, 64, 64);
+    width: 50%;
+    border-radius: 20px;
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
+}

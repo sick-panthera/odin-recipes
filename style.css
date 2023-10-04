@@ -1,6 +1,6 @@
 #circle-content {
     text-align: center;
-    margin-top: 630px;
+    margin-top: 720px;
 }
 
 #circle {
@@ -9,7 +9,7 @@
     height: 800px;
     overflow: hidden;
     border-radius: 0 0 70% 70%;
-    margin: -600px auto 0;
+    margin: -700px auto 0;
    
 }
 
